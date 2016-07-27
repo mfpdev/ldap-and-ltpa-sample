@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloLTPAUserResourceAdapter/HelloLTPAUser.iml" filepath="$PROJECT_DIR$/HelloLTPAUserResourceAdapter/HelloLTPAUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltpa-based/ltpa-based.iml" filepath="$PROJECT_DIR$/ltpa-based/ltpa-based.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ltpa-sample.iml" filepath="$PROJECT_DIR$/.idea/ltpa-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plain-war/plain-war.iml" filepath="$PROJECT_DIR$/plain-war/plain-war.iml" />
+    </modules>
+  </component>
+</project>
