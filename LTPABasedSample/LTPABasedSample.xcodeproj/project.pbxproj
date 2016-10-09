@@ -133,6 +133,7 @@
 				TargetAttributes = {
 					D417DDF11CC396A300DA6075 = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -343,6 +344,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.github.mfpdev.ltpa.LTPABasedSample;
 				PRODUCT_NAME = LTPABasedSample;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -355,6 +357,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.github.mfpdev.ltpa.LTPABasedSample;
 				PRODUCT_NAME = LTPABasedSample;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
